@@ -1,11 +1,11 @@
-<!-- Premium Header -->
+<!-- Premium Luxury Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Bala%20Subra%20Maniyan%20S%20R&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Bala%20Subra%20Maniyan%20S%20R&fontSize=35&fontColor=F5F5F5&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- Animated Typing -->
+<!-- Premium Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Senior+QA+Engineer;Test+Automation+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality+Driven+Release+Ownership;Delivering+Enterprise-Grade+Software+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&center=true&vCenter=true&lines=Senior+QA+Engineer;Test+Automation+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality+Driven+Release+Ownership;Delivering+Enterprise-Grade+Software" />
 </p>
 
 ---
