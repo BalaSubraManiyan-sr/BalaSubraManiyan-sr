@@ -1,7 +1,7 @@
 <!-- Premium Luxury Header -->
 <!-- 3D Custom Banner -->
 <p align="center">
-  <img src="banner-3d.png" width="100%" alt="Bala Subra Maniyan S R 3D Banner"/>
+  <img src="banner-2d.png" width="100%" alt="Bala Subra Maniyan S R 3D Banner"/>
 </p>
 
 
