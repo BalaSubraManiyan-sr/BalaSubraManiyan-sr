@@ -31,64 +31,45 @@ Focused on improving release quality, reducing production defects, and enhancing
 
 ---
 
-## 🛠️ Technical Stack
+<!-- Enterprise Divider -->
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #6C63FF, transparent);" />
+
+<h2 align="center">🛠 Technical Expertise</h2>
+
+<br>
+
+<p align="center">
+  <b>Automation</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>API Validation</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Database Testing</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Version Control</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>Defect Management</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>CMS Platforms</b>
+</p>
+
+<br><br>
 
 <p align="center">
 
-<a href="https://www.java.com/" title="Java - Programming Language">
-  <img src="https://skillicons.dev/icons?i=java" height="55"/>
-</a>
+<img src="https://img.shields.io/badge/Java-Enterprise%20Automation-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Selenium-Test%20Framework-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Postman-API%20Validation-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/JMeter-Performance%20Testing-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/MySQL-Data%20Integrity-6C63FF?style=flat-square" />
 
-<a href="https://www.selenium.dev/" title="Selenium - Automation Testing">
-  <img src="https://skillicons.dev/icons?i=selenium" height="55"/>
-</a>
+<br><br>
 
-<a href="https://www.postman.com/" title="Postman - API Testing Tool">
-  <img src="https://skillicons.dev/icons?i=postman" height="55"/>
-</a>
-
-<a href="https://jmeter.apache.org/" title="Apache JMeter - Performance & API Testing">
-  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="55"/>
-</a>
-
-<a href="https://www.mysql.com/" title="MySQL - Database Testing">
-  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-</a>
-
-<a href="https://git-scm.com/" title="Git - Version Control">
-  <img src="https://skillicons.dev/icons?i=git" height="55"/>
-</a>
-
-<a href="https://github.com/" title="GitHub - Code Repository">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://www.atlassian.com/software/jira" title="Jira - Defect Tracking Tool">
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="55"/>
-</a>
-
-<a href="https://azure.microsoft.com/en-in/products/devops/" title="Azure DevOps - CI/CD & Work Management">
-  <img src="https://skillicons.dev/icons?i=azure" height="55"/>
-</a>
-
-<a href="https://www.drupal.org/" title="Drupal - CMS Platform">
-  <img src="https://cdn.simpleicons.org/drupal/0678BE" height="55"/>
-</a>
+<img src="https://img.shields.io/badge/Git-Version%20Control-24292E?style=flat-square" />
+<img src="https://img.shields.io/badge/GitHub-Code%20Management-24292E?style=flat-square" />
+<img src="https://img.shields.io/badge/Jira-Defect%20Lifecycle-24292E?style=flat-square" />
+<img src="https://img.shields.io/badge/Azure-DevOps%20Integration-24292E?style=flat-square" />
+<img src="https://img.shields.io/badge/Drupal-CMS%20Management-24292E?style=flat-square" />
 
 </p>
 
 <br>
 
-<p align="center">
-  <b>Automation</b> &nbsp;•&nbsp;
-  <b>API Validation</b> &nbsp;•&nbsp;
-  <b>Database Testing</b> &nbsp;•&nbsp;
-  <b>Version Control</b> &nbsp;•&nbsp;
-  <b>Defect Management</b> &nbsp;•&nbsp;
-  <b>CMS Platforms</b>
-</p>
-
----
+<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #6C63FF, transparent);" />
 
 ### 🔹 Automation
 Selenium WebDriver + TestNG  
