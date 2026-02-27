@@ -40,7 +40,7 @@ Focused on improving release quality, reducing production defects, and enhancing
 **Automation:** Selenium WebDriver + TestNG  
 **API Validation:** Postman, JMeter  
 **Database Testing:** SQL  
-**Defect Management:** Azure DevOps, Taiga  
+**Defect Management:** Azure DevOps, Taiga , Jira  
 **CMS Platforms:** Drupal  
 
 ---
@@ -61,8 +61,8 @@ Focused on improving release quality, reducing production defects, and enhancing
 
 ## 🏗️ Enterprise Project Exposure
 
-✈️ MAGP – Malaysia Airports Group Procurement  
 🤖 Saaspe – AI SaaS Management Platform  
+✈️ MAGP – Malaysia Airports Group Procurement  
 🛡 APSS – Aircraft Protection Security Services  
 📄 SPA – Single Paper Approval  
 📑 CLM – Contract Lifecycle Management  
@@ -80,14 +80,6 @@ Focused on improving release quality, reducing production defects, and enhancing
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalaSubraManiyan-sr&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalaSubraManiyan-sr&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 🎓 Education & Certification
 
