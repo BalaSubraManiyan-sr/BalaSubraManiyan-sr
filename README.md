@@ -31,45 +31,18 @@ Focused on improving release quality, reducing production defects, and enhancing
 
 ---
 
-<!-- Enterprise Divider -->
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #6C63FF, transparent);" />
-
-<h2 align="center">🛠 Technical Expertise</h2>
-
-<br>
-
 <p align="center">
-  <b>Automation</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>API Validation</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Database Testing</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Version Control</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>Defect Management</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>CMS Platforms</b>
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🔹 Automation &nbsp; • &nbsp;
+    🔹 API Validation &nbsp; • &nbsp;
+    🔹 Database Testing &nbsp; • &nbsp;
+    🔹 Version Control &nbsp; • &nbsp;
+    🔹 Defect Management &nbsp; • &nbsp;
+    🔹 CMS Platforms
+  </marquee>
 </p>
 
-<br><br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-Enterprise%20Automation-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Selenium-Test%20Framework-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Postman-API%20Validation-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/JMeter-Performance%20Testing-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/MySQL-Data%20Integrity-6C63FF?style=flat-square" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Git-Version%20Control-24292E?style=flat-square" />
-<img src="https://img.shields.io/badge/GitHub-Code%20Management-24292E?style=flat-square" />
-<img src="https://img.shields.io/badge/Jira-Defect%20Lifecycle-24292E?style=flat-square" />
-<img src="https://img.shields.io/badge/Azure-DevOps%20Integration-24292E?style=flat-square" />
-<img src="https://img.shields.io/badge/Drupal-CMS%20Management-24292E?style=flat-square" />
-
-</p>
-
-<br>
-
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #6C63FF, transparent);" />
+----
 
 ### 🔹 Automation
 Selenium WebDriver + TestNG  
