@@ -5,12 +5,12 @@
 
 <!-- Premium Styled Title -->
 <h2 align="center">
-  <b><i>Senior QA Engineer</i></b>
+  <b><i>Quality Assurance Engineer</i></b>
 </h2>
 
 <!-- Premium Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=800&lines=Test+Automation+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality+Driven+Release+Ownership;Delivering+Enterprise-Grade+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=900&duration=3500&pause=800&lines=Automation+%26+Manual+Testing+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality-Driven+Release+Ownership;Enterprise-Grade+Quality+Engineering" />
 </p>
 
 ---
