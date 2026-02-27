@@ -34,14 +34,68 @@ Focused on improving release quality, reducing production defects, and enhancing
 ## 🛠️ Technical Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,git,github" />
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+</a>
+
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=selenium" height="50"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" height="50"/>
+</a>
+
+<a href="https://jmeter.apache.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="50"/>
+</a>
+
+<a href="https://azure.microsoft.com/en-in/products/devops/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=azure" height="50"/>
+</a>
+
+<a href="https://www.drupal.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/drupal/0678BE" height="50"/>
+</a>
+
 </p>
 
-**Automation:** Selenium WebDriver + TestNG  
-**API Validation:** Postman, JMeter  
-**Database Testing:** SQL  
-**Defect Management:** Azure DevOps, Taiga , Jira  
-**CMS Platforms:** Drupal  
+---
+
+### 🔹 Automation
+Selenium WebDriver + TestNG  
+
+### 🔹 API Validation
+Postman, Apache JMeter  
+
+### 🔹 Database Testing
+MySQL (SQL Queries & Data Validation)  
+
+### 🔹 Version Control
+Git & GitHub  
+
+### 🔹 Defect Management
+Jira, Azure DevOps, Taiga  
+
+### 🔹 CMS Platforms
+Drupal  
 
 ---
 
