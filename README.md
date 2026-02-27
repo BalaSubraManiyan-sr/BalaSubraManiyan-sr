@@ -3,9 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Bala%20Subra%20Maniyan%20S%20R&fontSize=35&fontColor=F5F5F5&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- Premium Styled Title -->
+<h2 align="center">
+  <b><i>Senior QA Engineer</i></b>
+</h2>
+
 <!-- Premium Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Senior+QA+Engineer;Test+Automation+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality+Driven+Release+Ownership;Delivering+Enterprise-Grade+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=800&lines=Test+Automation+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality+Driven+Release+Ownership;Delivering+Enterprise-Grade+Software" />
 </p>
 
 ---
