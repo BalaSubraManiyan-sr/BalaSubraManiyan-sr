@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Bala%20Subra%20Maniyan%20S%20R&fontSize=35&fontColor=F5F5F5&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<!-- Premium Styled Title -->
-<h2 align="center">
-  <b><i>Quality Assurance Engineer</i></b>
-</h2>
-
 <!-- Premium Animated Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=900&duration=3500&pause=800&lines=Automation+%26+Manual+Testing+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality-Driven+Release+Ownership;Enterprise-Grade+Quality+Engineering" />
