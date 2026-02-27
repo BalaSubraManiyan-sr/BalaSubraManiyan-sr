@@ -8,36 +8,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=900&duration=3500&pause=800&lines=Automation+%26+Manual+Testing+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality-Driven+Release+Ownership;Enterprise-Grade+Quality+Engineering" />
 </p>
 
-<hr>
+---
 
-<h2>👨‍💻 Senior Quality Assurance Engineer</h2>
+# 👨‍💻 Quality Assurance Engineer
 
-<p>
 Results-driven QA professional with experience in enterprise web and mobile application testing.  
-Specialized in <b>test strategy, regression optimization, automation enablement, and client-facing SIT/UAT coordination.</b>
-</p>
+Specialized in **test strategy, regression optimization, automation enablement, and client-facing SIT/UAT coordination.**
 
-<p>
 Focused on improving release quality, reducing production defects, and enhancing automation coverage.
-</p>
 
-<hr>
+---
 
-<h2>🎯 Core Expertise</h2>
+## 🎯 Core Expertise
 
-<p>
-✔ Test Planning & Quality Strategy<br>
-✔ End-to-End System Integration Testing (SIT)<br>
-✔ Client-Focused UAT Coordination<br>
-✔ Regression Suite Optimization<br>
-✔ Automation Framework Enhancement<br>
-✔ Risk-Based Testing Approach<br>
-✔ Requirement Analysis & Defect Lifecycle Ownership
-</p>
+✔ Test Planning & Quality Strategy  
+✔ End-to-End System Integration Testing (SIT)  
+✔ Client-Focused UAT Coordination  
+✔ Regression Suite Optimization  
+✔ Automation Framework Enhancement  
+✔ Risk-Based Testing Approach  
+✔ Requirement Analysis & Defect Lifecycle Ownership  
 
-<hr>
+---
 
-<h2>🛠️ Technical Stack</h2>
+## 🛠️ Technical Stack
 
 <p align="center">
 
@@ -83,82 +77,86 @@ Focused on improving release quality, reducing production defects, and enhancing
 
 </p>
 
-<hr>
+---
 
-<h3>🔹 Automation</h3>
-<p>Selenium WebDriver + TestNG</p>
+### 🔹 Automation  
+Selenium WebDriver + TestNG  
 
-<h3>🔹 API Validation</h3>
-<p>Postman, Apache JMeter</p>
+### 🔹 API Validation  
+Postman, Apache JMeter  
 
-<h3>🔹 Database Testing</h3>
-<p>MySQL (SQL Queries & Data Validation)</p>
+### 🔹 Database Testing  
+MySQL (SQL Queries & Data Validation)  
 
-<h3>🔹 Version Control</h3>
-<p>Git & GitHub</p>
+### 🔹 Version Control  
+Git & GitHub  
 
-<h3>🔹 Defect Management</h3>
-<p>Jira, Azure DevOps, Taiga</p>
+### 🔹 Defect Management  
+Jira, Azure DevOps, Taiga  
 
-<h3>🔹 CMS Platforms</h3>
-<p>Drupal</p>
+### 🔹 CMS Platforms  
+Drupal  
 
-<hr>
+---
 
-<h2>💼 Professional Experience</h2>
+## 💼 Professional Experience
 
-<h3>🏢 Senior QA Engineer (Automation & Integration Focus)</h3>
-<p><b>Mindgraph Technologies | Feb 2024 – Present</b></p>
+### 🏢 Quality Assurance Engineer (Automation & Integration Focus)  
+**Mindgraph Technologies PVT LTD | Aug 2024 – Present**
 
-<p>
-🔹 Led regression validation cycles for multiple enterprise applications<br>
-🔹 Automated critical business workflows improving test efficiency<br>
-🔹 Coordinated directly with clients during SIT & UAT phases<br>
-🔹 Reduced defect leakage through early integration validation<br>
-🔹 Designed structured test scenarios using BVA & ECP techniques<br>
-🔹 Contributed to release readiness and deployment confidence
-</p>
+🔹 Led regression validation cycles for multiple enterprise applications  
+🔹 Automated critical business workflows improving test efficiency  
+🔹 Coordinated directly with clients during SIT & UAT phases  
+🔹 Reduced defect leakage through early integration validation  
+🔹 Designed structured test scenarios using BVA & ECP techniques  
+🔹 Contributed to release readiness and deployment confidence  
 
-<hr>
+<br>
+🏢 QA Intern
+Mindgraph Technologies PVT LTD | Feb 2024 – Aug 2024
 
-<h2>🏗️ Enterprise Project Exposure</h2>
+🔹 Assisted in manual testing of web applications
+🔹 Designed and executed functional and regression test cases
+🔹 Performed API testing using Postman
+🔹 Logged and tracked defects using Taiga
+🔹 Assisted in automation testing using Selenium WebDriver and TestNG
 
-<p>
-🤖 Saaspe – AI SaaS Management Platform<br>
-✈️ MAGP – Malaysia Airports Group Procurement<br>
-🛡 APSS – Aircraft Protection Security Services<br>
-📄 SPA – Single Paper Approval<br>
-📑 CLM – Contract Lifecycle Management<br>
-🗂 ECMS – Enterprise Content Management System<br>
-🛍 Eraman – Airport Retail & E-commerce Platform
-</p>
+---
 
-<hr>
+## 🏗️ Enterprise Project Exposure
 
-<h2>📈 Impact Highlights</h2>
+🤖 Saaspe – AI SaaS Management Platform  
+✈️ MAGP – Malaysia Airports Group Procurement  
+🛡 APSS – Aircraft Protection Security Services  
+📄 SPA – Single Paper Approval  
+📑 CLM – Contract Lifecycle Management  
+🗂 ECMS – Enterprise Content Management System  
+🛍 Eraman – Airport Retail & E-commerce Platform  
 
-<p>
-📌 Improved regression cycle efficiency through automation integration<br>
-📌 Strengthened SIT stability by validating cross-module workflows<br>
-📌 Increased test coverage using structured test design methodologies<br>
-📌 Enhanced client satisfaction through proactive defect validation
-</p>
+---
 
-<hr>
+## 📈 Impact Highlights
 
-<h2>🎓 Education & Certification</h2>
+📌 Improved regression cycle efficiency through automation integration  
+📌 Strengthened SIT stability by validating cross-module workflows  
+📌 Increased test coverage using structured test design methodologies  
+📌 Enhanced client satisfaction through proactive defect validation  
 
-<p>
-🎓 Bachelor of Information Technology<br>
-📜 Software Testing Certification – QSpiders<br>
-📜 Crowd Beta Testing Certification
-</p>
+---
 
-<hr>
+## 🎓 Education & Certification
 
-<h2>🤝 Leadership Philosophy</h2>
+🎓 Bachelor of Information Technology  
+📜 Software Testing Certification – QSpiders  
+📜 Crowd Beta Testing Certification  
 
-<p><i>Quality is not just testing — it is ownership, risk mitigation, and release confidence.</i></p>
+---
+
+## 🤝 Leadership Philosophy
+
+> Quality is not just testing — it is ownership, risk mitigation, and release confidence.
+
+---
 
 <p align="center">
 🔥 Driving Quality Through Strategy, Automation & Continuous Improvement 🔥
