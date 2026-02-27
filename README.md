@@ -35,42 +35,52 @@ Focused on improving release quality, reducing production defects, and enhancing
 
 <p align="center">
 
-<!-- Glass Style Badges -->
+<a href="https://www.java.com/" title="Java - Programming Language">
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+</a>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="https://www.selenium.dev/" title="Selenium - Automation Testing">
+  <img src="https://skillicons.dev/icons?i=selenium" height="55"/>
+</a>
 
-<br><br>
+<a href="https://www.postman.com/" title="Postman - API Testing Tool">
+  <img src="https://skillicons.dev/icons?i=postman" height="55"/>
+</a>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
+<a href="https://jmeter.apache.org/" title="Apache JMeter - Performance & API Testing">
+  <img src="https://cdn.simpleicons.org/apachejmeter/D22128" height="55"/>
+</a>
+
+<a href="https://www.mysql.com/" title="MySQL - Database Testing">
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+</a>
+
+<a href="https://git-scm.com/" title="Git - Version Control">
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+</a>
+
+<a href="https://github.com/" title="GitHub - Code Repository">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://www.atlassian.com/software/jira" title="Jira - Defect Tracking Tool">
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="55"/>
+</a>
+
+<a href="https://azure.microsoft.com/en-in/products/devops/" title="Azure DevOps - CI/CD & Work Management">
+  <img src="https://skillicons.dev/icons?i=azure" height="55"/>
+</a>
+
+<a href="https://www.drupal.org/" title="Drupal - CMS Platform">
+  <img src="https://cdn.simpleicons.org/drupal/0678BE" height="55"/>
+</a>
 
 </p>
 
----
-
-### 📊 Skill Proficiency
+<br>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java-80%25-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Selenium-85%25-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/API%20Testing-90%25-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/SQL-75%25-6C63FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Defect%20Management-85%25-6C63FF?style=flat-square" />
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Automation+Focused+QA;Enterprise+Integration+Testing;CI/CD+Aware+Quality+Engineering;Release+Ownership+Mindset" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Automation+%7C+API+Testing+%7C+Database+Validation;Defect+Management+%7C+CI/CD+Tools;Enterprise+Quality+Engineering+Stack" />
 </p>
 
 ---
