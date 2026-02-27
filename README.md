@@ -5,7 +5,7 @@
 
 <!-- Premium Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&center=true&vCenter=true&lines=Senior+QA+Engineer;Test+Automation+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality+Driven+Release+Ownership;Delivering+Enterprise-Grade+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Senior+QA+Engineer;Test+Automation+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality+Driven+Release+Ownership;Delivering+Enterprise-Grade+Software" />
 </p>
 
 ---
