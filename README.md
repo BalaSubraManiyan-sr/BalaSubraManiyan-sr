@@ -80,7 +80,12 @@ Focused on improving release quality, reducing production defects, and enhancing
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&lines=Automation+%7C+API+Testing+%7C+Database+Validation;Defect+Management+%7C+CI/CD+Tools;Enterprise+Quality+Engineering+Stack" />
+  <b>Automation</b> &nbsp;•&nbsp;
+  <b>API Validation</b> &nbsp;•&nbsp;
+  <b>Database Testing</b> &nbsp;•&nbsp;
+  <b>Version Control</b> &nbsp;•&nbsp;
+  <b>Defect Management</b> &nbsp;•&nbsp;
+  <b>CMS Platforms</b>
 </p>
 
 ---
