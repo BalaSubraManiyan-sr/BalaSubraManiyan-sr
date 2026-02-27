@@ -161,6 +161,18 @@ Drupal
 ---
 
 <p align="center">
+Explore my complete professional journey, project contributions, and technical expertise in the resume below.
+</p>
+
+<p align="center">
+  <a href="BALA-SUBRA-MANIYAN-S-R-Resumae.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Professional%20Resume-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
 🔥 Driving Quality Through Strategy, Automation & Continuous Improvement 🔥
 </p>
 
