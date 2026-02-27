@@ -76,12 +76,6 @@ Focused on improving release quality, reducing production defects, and enhancing
 
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=1000&duration=4000&pause=1000&lines=Automation+•+API+Validation+•+Database+Testing+•+Version+Control+•+Defect+Management+•+CMS+Platforms" />
-</p>
-
 ---
 
 ### 🔹 Automation
