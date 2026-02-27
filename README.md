@@ -1,11 +1,11 @@
 <!-- Premium Luxury Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Bala%20Subra%20Maniyan%20S%20R&fontSize=35&fontColor=F5F5F5&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=140&section=header&text=Bala%20Subra%20Maniyan%20S%20R&fontSize=30&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 </p>
 
 <!-- Premium Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=900&duration=3500&pause=800&lines=Automation+%26+Manual+Testing+Specialist;SIT+%7C+UAT+%7C+Regression+Lead;Quality-Driven+Release+Ownership;Enterprise-Grade+Quality+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=1100&duration=3500&pause=800&lines=Manual+Testing;Automation+Testing;API+Testing;End-User+Requirement+Validation;Business+User+Collaboration;Cross-Functional+Stakeholder+Engagement;Client+%26+User-Focused+Testing+Coordination;Requirement+Clarification+%26+User+Alignment;System+Integration+Testing+(SIT);User+Acceptance+Testing+(UAT)" />
 </p>
 
 ---
@@ -112,14 +112,15 @@ Drupal
 🔹 Contributed to release readiness and deployment confidence  
 
 <br>
-🏢 QA Intern
-Mindgraph Technologies PVT LTD | Feb 2024 – Aug 2024
 
-🔹 Assisted in manual testing of web applications
-🔹 Designed and executed functional and regression test cases
-🔹 Performed API testing using Postman
-🔹 Logged and tracked defects using Taiga
-🔹 Assisted in automation testing using Selenium WebDriver and TestNG
+### 🏢 QA Intern
+**Mindgraph Technologies PVT LTD | Feb 2024 – Aug 2024**
+
+🔹 Executed manual test cases for web applications  
+🔹 Designed functional and regression test scenarios  
+🔹 Performed REST API validation using Postman  
+🔹 Logged and managed defects using Taiga  
+🔹 Developed and executed automation scripts using Selenium WebDriver with TestNG  
 
 ---
 
@@ -137,10 +138,11 @@ Mindgraph Technologies PVT LTD | Feb 2024 – Aug 2024
 
 ## 📈 Impact Highlights
 
-📌 Improved regression cycle efficiency through automation integration  
-📌 Strengthened SIT stability by validating cross-module workflows  
-📌 Increased test coverage using structured test design methodologies  
-📌 Enhanced client satisfaction through proactive defect validation  
+📌 Led client-coordinated SIT activities ensuring seamless cross-module integration  
+📌 Facilitated UAT validation with users and client teams to confirm business requirement alignment  
+📌 Optimized regression cycles through automation-driven test execution  
+📌 Implemented effective sanity validation to safeguard release quality  
+📌 Increased client confidence through proactive defect management and timely delivery
 
 ---
 
