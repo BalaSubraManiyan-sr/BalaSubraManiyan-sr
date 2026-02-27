@@ -1,6 +1,6 @@
 <!-- Premium Luxury Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Bala%20Subra%20Maniyan%20S%20R&fontSize=35&fontColor=F5F5F5&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Bala%20Subra%20Maniyan%20S%20R&fontSize=35&fontColor=F5F5F5&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <!-- Premium Animated Typing -->
@@ -153,5 +153,5 @@ Drupal
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:0F2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer" width="100%"/>
 </p>
