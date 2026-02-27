@@ -177,5 +177,5 @@ Explore my complete professional journey, project contributions, and technical e
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302B63,100:0F0C29&height=80&section=header" width="100%"/>
 </p>
