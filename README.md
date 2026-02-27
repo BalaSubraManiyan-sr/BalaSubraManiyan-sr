@@ -12,7 +12,7 @@
 
 # 👨‍💻 Senior Quality Assurance Engineer
 
-Results-driven QA professional with 2+ years of experience in enterprise web and mobile application testing.  
+Results-driven QA professional with experience in enterprise web and mobile application testing.  
 Specialized in **test strategy, regression optimization, automation enablement, and client-facing SIT/UAT coordination.**
 
 Focused on improving release quality, reducing production defects, and enhancing automation coverage.
