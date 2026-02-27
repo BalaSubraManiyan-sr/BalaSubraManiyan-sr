@@ -79,14 +79,7 @@ Focused on improving release quality, reducing production defects, and enhancing
 <br>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    🔹 Automation &nbsp;
-    🔹 API Validation &nbsp;
-    🔹 Database Testing &nbsp;
-    🔹 Version Control &nbsp; 
-    🔹 Defect Management &nbsp;
-    🔹 CMS Platforms
-  </marquee>
+  <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&center=true&vCenter=true&width=1000&duration=4000&pause=1000&lines=Automation+•+API+Validation+•+Database+Testing+•+Version+Control+•+Defect+Management+•+CMS+Platforms" />
 </p>
 
 ---
