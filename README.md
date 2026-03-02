@@ -101,7 +101,7 @@ Drupal
 
 ## 💼 Professional Experience
 
-### 🏢 Quality Assurance Engineer (Automation & Integration Focus)  
+### 🏢 Quality Assurance Engineer
 **Mindgraph Technologies PVT LTD | Aug 2024 – Present**
 
 🔹 Led regression validation cycles for multiple enterprise applications  
